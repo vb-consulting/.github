@@ -1,7 +1,2 @@
-Get The Most Out Of The World's Most Advanced Open-Source Full-Stack Eco-Systems
-- PostgreSQL
-- .NET
-- Svelte
-
-[Visit My Webiste](https://vb-consulting.github.io/)
+[https://vb-consulting.github.io/](https://vb-consulting.github.io/)
 
